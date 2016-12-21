@@ -1,7 +1,7 @@
 var t=0;
 
 $(document).ready(function(){
-	fillGrid(32);
+	fillGrid(16);
 	hoverColor();
 	
 
